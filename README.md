@@ -1,8 +1,11 @@
 ## Hi, good to have you here ✌🏽
 
+<div align="center">
+
 ![feroline's Stats](https://github-readme-stats.vercel.app/api?username=feroline&theme=merko&show_icons=true&hide_border=true&count_private=true)
 ![feroline's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feroline&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
+</div>
 <br>
 
 - 🔭 I'm currently looking for a job.
@@ -12,6 +15,8 @@
 - <img src="./assets/logo-qa-bentevi.ico" width="40" height="40" align="center"> [QA Bentevi](https://feroline.github.io/feroline.qa-bentevi/) - My Software Quality and Test Automation Blog
 
 <br>
+
+<div align="center">
 
 Knowledge in:
 
@@ -37,3 +42,5 @@ Knowledge in:
 ![Github Actions](https://img.shields.io/badge/github%20actions-%23121013?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Json](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+
+</div>
