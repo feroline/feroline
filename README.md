@@ -42,5 +42,15 @@ Knowledge in:
 ![Github Actions](https://img.shields.io/badge/github%20actions-%23121013?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Json](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+
+I Like:
+
+![Valorant](https://img.shields.io/badge/valorant-%23E5E5E5?style=for-the-badge&logo=valorant&logoColor=FA4454)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Coffe](https://img.shields.io/badge/Coffe-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![QualityAssurance](<https://img.shields.io/badge/Quality%20Assurance%20(QA)-%23E5E5E5?style=for-the-badge&logo=gherkin&logoColor=black>)
 
 </div>
