@@ -25,6 +25,7 @@ Knowledge in:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/gherkin-%2323D96C?style=for-the-badge&logo=gherkin&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-%23323330?style=for-the-badge&logo=cucumber&logoColor=23D96C)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
