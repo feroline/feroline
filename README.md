@@ -52,6 +52,6 @@ I Like:
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Coffe](https://img.shields.io/badge/Coffe-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
-![QualityAssurance](<https://img.shields.io/badge/Quality%20Assurance%20(QA)-%23E5E5E5?style=for-the-badge&logo=gherkin&logoColor=black>)
+![QA/QC](<https://img.shields.io/badge/QA%20&%20QC-%23E5E5E5?style=for-the-badge&logo=gherkin&logoColor=black>)
 
 </div>
