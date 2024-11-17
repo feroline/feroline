@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- 🔭 I'm currently looking for a job.
+- 👩🏽‍💻 I am currently working as a Full Quality Analyst
 - 🌱 I am currently improving my knowledge in Cypress.
 - 📗 I am currently studying for Certified Tester Foundation Level - ISTQB.
 - <img src="./assets/linkedin.svg" width="20" height="20" align="center"> [Ana Carolina Rodrigues Rocha](https://www.linkedin.com/in/anacarolinarodriguesrocha/) - My linkedin.
