@@ -8,9 +8,9 @@
 </div>
 <br>
 
-- 👩🏽‍💻 I am currently working as a Full Quality Analyst
+- 👩🏽‍💻 I am currently working as a Full Quality Analyst.
+- 📄 I have Certified Tester Foundation Level - ISTQB. 
 - 🌱 I am currently improving my knowledge in Cypress.
-- 📗 I am currently studying for Certified Tester Foundation Level - ISTQB.
 - <img src="./assets/linkedin.svg" width="20" height="20" align="center"> [Ana Carolina Rodrigues Rocha](https://www.linkedin.com/in/anacarolinarodriguesrocha/) - My linkedin.
 - <img src="./assets/logo-qa-bentevi.ico" width="40" height="40" align="center"> [QA Bentevi](https://feroline.github.io/feroline.qa-bentevi/) - My Software Quality and Test Automation Blog. 
 
