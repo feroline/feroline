@@ -31,7 +31,6 @@ Knowledge in:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23E5E5E5?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Azure](https://img.shields.io/badge/azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Redmine](https://img.shields.io/badge/redmine-%23E5E5E5?style=for-the-badge&logo=redmine&logoColor=B32024)
