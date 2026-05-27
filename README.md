@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- 👩🏽‍💻 I am currently working as a Full Quality Analyst.
+- 👩🏽‍💻 I am currently working as a Full Quality Analyst with test automation. 
 - 📄 I have the international Certified Tester Advanced Level Test Automation Engineering (CTAL-TAE) by ISTQB.
 - 📄 I have the international Certified Tester Foundation Level (CTFL) by ISTQB. 
 - 🌱 I am currently improving my knowledge in Cypress.
@@ -22,11 +22,11 @@
 Knowledge in:
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23323330)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/gherkin-%2323D96C?style=for-the-badge&logo=gherkin&logoColor=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-%23323330?style=for-the-badge&logo=cucumber&logoColor=23D96C)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
